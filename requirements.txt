@@ -1,0 +1,19 @@
+# Telegram
+python-telegram-bot==20.3
+
+# PyTorch (CPU версия, если нужен GPU — см. инструкции ниже)
+torch==2.2.0
+torchvision==0.17.1
+
+# Transformers и NLP
+transformers==4.44.0
+sentencepiece==0.1.99
+numpy==1.26.0
+Pillow==10.1.0
+requests==2.32.0
+
+# YOLOv5 и обработка изображений
+opencv-python==4.8.1.78
+pandas==2.1.1
+
+# Асинхронность и утилиты (стандартные)
